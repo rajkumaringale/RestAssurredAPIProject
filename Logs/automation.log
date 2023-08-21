@@ -1,0 +1,25 @@
+15:36:51.186 [main] INFO  api.testcases.UserTests - ****************** Creating User ***********************
+15:36:54.911 [main] INFO  api.testcases.UserTests - ****************** User is Created ***********************
+15:36:54.937 [main] INFO  api.testcases.UserTests - ****************** Reading User Info ***********************
+15:36:56.319 [main] INFO  api.testcases.UserTests - ****************** User Info is Displayed ***********************
+15:36:56.331 [main] INFO  api.testcases.UserTests - ****************** Updating User***********************
+15:36:57.731 [main] INFO  api.testcases.UserTests - ****************** User is Updated ***********************
+15:36:59.099 [main] INFO  api.testcases.UserTests - ****************** Deleting User***********************
+15:37:00.502 [main] INFO  api.testcases.UserTests - ****************** User is Deleted ***********************
+18:24:29.068 [main] DEBUG api.testcases.UserTests2 - debugging.....
+18:24:29.096 [main] INFO  api.testcases.UserTests2 - ********** Creating user  ***************
+18:24:32.955 [main] INFO  api.testcases.UserTests2 - **********User is creatged  ***************
+18:24:32.964 [main] INFO  api.testcases.UserTests2 - ********** Reading User Info ***************
+18:24:34.483 [main] INFO  api.testcases.UserTests2 - **********User info  is displayed ***************
+18:24:34.496 [main] INFO  api.testcases.UserTests2 - ********** Updating User ***************
+18:24:36.778 [main] INFO  api.testcases.UserTests2 - ********** User updated ***************
+18:24:38.142 [main] INFO  api.testcases.UserTests2 - **********   Deleting User  ***************
+18:24:39.498 [main] INFO  api.testcases.UserTests2 - ********** User deleted ***************
+19:10:50.586 [main] INFO  api.testcases.UserTests - ****************** Creating User ***********************
+19:10:54.247 [main] INFO  api.testcases.UserTests - ****************** User is Created ***********************
+19:10:54.266 [main] INFO  api.testcases.UserTests - ****************** Reading User Info ***********************
+19:10:55.620 [main] INFO  api.testcases.UserTests - ****************** User Info is Displayed ***********************
+19:10:55.628 [main] INFO  api.testcases.UserTests - ****************** Updating User***********************
+19:10:56.955 [main] INFO  api.testcases.UserTests - ****************** User is Updated ***********************
+19:10:58.353 [main] INFO  api.testcases.UserTests - ****************** Deleting User***********************
+19:10:59.689 [main] INFO  api.testcases.UserTests - ****************** User is Deleted ***********************
